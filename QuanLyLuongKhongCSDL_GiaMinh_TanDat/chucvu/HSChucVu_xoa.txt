@@ -1,0 +1,8 @@
+  ChucVu  HSCV
+0     NV   1.0
+1    PGD   2.2
+2     PP   1.5
+3     TK   1.2
+4     TL   1.5
+5     TP   2.0
+6     TX   1.2

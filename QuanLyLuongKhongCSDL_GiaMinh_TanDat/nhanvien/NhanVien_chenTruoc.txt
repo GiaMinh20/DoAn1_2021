@@ -1,0 +1,14 @@
+   MaNV            Ho     Ten Phai        NTNS  NgayBatDau MaPB
+0   100             B      AA    1  01/01/1966  30/04/1990   VP
+1   099             A      BV    0  01/01/1966  30/04/1990   VP
+2   001       Lai Van     Sam    0  01/01/1966  30/04/1990   VP
+3   002      Tran Van    Minh    0  23/02/1965  10/05/1990   VP
+4   003     Tong Canh     Son    0  12/04/1963  24/10/1996   TK
+..  ...           ...     ...  ...         ...         ...  ...
+57  056  Truong Tuong    Nhat    0  25/12/1972  23/05/1994   KH
+58  057   Nguyen Xuan  Phuong    0  14/04/1960  05/01/1986   TK
+59  058       Vo Ngoc   Quang    0  12/02/1960  07/10/1990   TK
+60  059  Nguyen Thanh    Thuy    1  19/05/1960  07/07/1996   TK
+61  060  Nguyen Trong     Son    0  20/05/1941  22/07/1989   KT
+
+[62 rows x 7 columns]

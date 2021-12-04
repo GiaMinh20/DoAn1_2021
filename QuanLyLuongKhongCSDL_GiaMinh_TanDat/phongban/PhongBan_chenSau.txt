@@ -1,0 +1,7 @@
+  MaPB                    TenPB
+0   KH   Phong Kinh te Ke hoach
+1  avv                      aaa
+2   KT  Phong Ke toan Tai chanh
+3   TC    Phong To chuc Nhan so
+4   TK  Phong Ky thuat Thiet ke
+5   VP      Van phong Xi nghiep

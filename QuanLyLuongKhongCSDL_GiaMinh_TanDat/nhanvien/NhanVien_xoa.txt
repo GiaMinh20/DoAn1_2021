@@ -1,0 +1,57 @@
+   MaNV             Ho     Ten  Phai        NTNS  NgayBatDau MaPB
+0   005        Mai Tho    Loan     1  23/05/1970  08/03/1989   TK
+1   006       Mac Xuan    Tien     0  12/04/1963  28/03/1992   TK
+2   007        Vu Hoai     Anh     0  15/06/1968  09/03/1993   KH
+3   008     Tran Thanh   Khanh     0  15/07/1942  11/10/1985   KH
+4   009    Nguyen Hong    Hanh     1  13/01/1962  06/06/1987   KT
+5   010         Le Thi   Huong     1  23/05/1962  06/06/1988   KT
+6   011       Lam Quoc   Khanh     0  21/06/1963  27/09/1991   KT
+7   012    Nguyen Hong     Van     1  11/05/1976  05/05/1995   TK
+8   013    Nguyen Minh   Quang     0  13/06/1951  05/05/1978   VP
+9   014      Trang Phi    Hung     0  23/03/1953  07/07/1996   VP
+10  015    Tran Nguyet    Minh     1  19/09/1963  10/10/1995   VP
+11  016    Nguyen Ngoc    Hien     1  14/03/1961  08/04/1990   VP
+12  017         Do Anh    Hang     0  11/01/1960  05/05/1979   VP
+13  018       Dinh Thi     Tam     1  04/03/1962  05/05/1995   TC
+14  019     Nguyen Kim    Toan     1  01/09/1960  31/07/1990   TC
+15  020    Nguyen Bich    Lien     1  03/03/1969  16/12/1996   TC
+16  021     Huynh Bach   Tuyet     1  07/03/1968  23/05/1994   KH
+17  022      Le Phuong   Thanh     1  12/02/1957  05/05/1981   KH
+18  023         Ta The   Khanh     0  23/05/1969  15/09/1993   KH
+19  024        Bui Son     Hai     0  14/03/1951  08/05/1990   TC
+20  025         Luu Vu     Cam     0  17/06/1970  22/08/1995   TK
+21  026       Doan Thi     Chi     0  12/05/1960  30/10/1994   TC
+22  027     Tran Quang   Thanh     0  14/09/1963  05/05/1992   TK
+23  028      Truong Le    Xuan     1  13/04/1968  23/05/1994   KT
+24  029     Nguyen Van   Thanh     0  02/09/1969  08/02/1996   TC
+25  030       Dang Van    Thuy     0  01/01/1968  23/08/1992   TK
+26  031     Nguyen Van   Thanh     0  02/02/1979  23/05/1994   KH
+27  032        Lam Van    Tuan     0  12/02/1969  09/09/1993   TK
+28  033     Hoang Ngoc   Thanh     0  13/05/1944  09/03/1978   VP
+29  034     Nguyen Van    Nuoi     0  23/04/1970  02/10/1990   TK
+30  035        Do Dinh    Viet     0  12/04/1945  31/07/1985   TC
+31  036       Le Trung    Binh     0  13/04/1977  30/05/1997   TK
+32  037       Tran The   Duyet     0  14/04/1970  26/04/1996   KH
+33  038        Le Bich  Phuong     1  13/03/1974  04/08/1995   KH
+34  039        Mai Van    Duoc     0  14/04/1960  04/10/1993   TC
+35  040    Truong Xuan    Hong     0  15/05/1940  28/04/1979   TC
+36  041     Huynh Ngoc   Quanh     0  23/05/1964  30/05/1990   TK
+37  042      Dao Thanh   Huong     1  12/03/1969  08/08/1993   TK
+38  043      Pham Hoai     Nam     1  15/06/1978  28/07/1992   VP
+39  044      Le Thi My    Linh     1  19/09/1971  30/05/1995   TK
+40  045       Pham The    Dung     0  23/05/1980  30/12/1997   TK
+41  046    Hoang Thanh   Trang     1  12/03/1970  03/03/1997   KT
+42  047     Nguyen Van    Hien     0  15/06/1960  05/05/1988   TK
+43  048    Tran Nguyet     Nga     1  12/07/1965  26/04/1993   TK
+44  049   Mai Thi Hong    Xuan     1  02/06/1962  09/09/1995   VP
+45  050     Nguyen Thi     Nam     1  06/07/1960  06/06/1987   KT
+46  051  Ton Thi Thanh    Nhan     1  14/06/1965  04/10/1993   TC
+47  052      Nguyen To    Uyen     1  05/06/1963  07/10/1990   TK
+48  053      Luong Anh   Tuyen     1  23/01/1975  02/10/1997   KT
+49  054       Doan Van   Thanh     0  24/03/1971  06/06/1993   VP
+50  055      Luong Van   Chanh     0  20/05/1963  12/01/1997   TK
+51  056   Truong Tuong    Nhat     0  25/12/1972  23/05/1994   KH
+52  057    Nguyen Xuan  Phuong     0  14/04/1960  05/01/1986   TK
+53  058        Vo Ngoc   Quang     0  12/02/1960  07/10/1990   TK
+54  059   Nguyen Thanh    Thuy     1  19/05/1960  07/07/1996   TK
+55  060   Nguyen Trong     Son     0  20/05/1941  22/07/1989   KT
